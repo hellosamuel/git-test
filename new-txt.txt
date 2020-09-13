@@ -1,1 +1,4 @@
 Hello from rebase-1
+World from rebase-2
+
+Resolve confilcts after rebase
